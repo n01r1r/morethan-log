@@ -12,12 +12,12 @@ const CONFIG = {
   },
   
   projects: [
-    /*
+    
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `ROADNet`,
+      href: "https://github.com/hwnam5/Suwon_pothole",
     },
-    */
+    
   ],
   
   // blog setting (required)
