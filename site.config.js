@@ -10,12 +10,14 @@ const CONFIG = {
     github: "n01r1r",
     instagram: "",
   },
+  /*
   projects: [
     {
       name: `morethan-log`,
       href: "https://github.com/morethanmin/morethan-log",
     },
   ],
+  */
   // blog setting (required)
   blog: {
     title: "n01r-blog",
